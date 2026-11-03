@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(open:*)",
+      "Bash(ls:*)",
+      "Bash(cp:*)",
+      "Bash(mkdir:*)",
+      "Bash(python3 -m http.server:*)",
+      "Bash(py -m http.server:*)",
+      "Bash(python -m http.server:*)",
+      "Bash(curl -s \"https://www.youtube.com/oembed:*)"
+    ]
+  }
+}
